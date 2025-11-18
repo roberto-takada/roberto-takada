@@ -7,7 +7,7 @@ Desenvolvedor apaixonado por criar soluções completas, do backend ao frontend,
 ## 🛠️ Tecnologias com que trabalho
 
 ### **Backend**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20"/> **NestJS**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="20"/> **NestJS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express  
 - 🔐 Autenticação (JWT, RBAC), APIs REST, WebSockets
