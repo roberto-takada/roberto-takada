@@ -35,8 +35,6 @@ Desenvolvedor apaixonado por criar soluções completas, do backend ao frontend,
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> **Unity**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="20"/> **Godot**
 
----
-
 ## Principais Interesses
 
 - Arquitetura de software  
@@ -46,11 +44,9 @@ Desenvolvedor apaixonado por criar soluções completas, do backend ao frontend,
 - Desenvolvimento de jogos (sistemas internos, ferramentas e protótipos)  
 - Aplicações web/mobile integradas com serviços modernos
 
----
 
 ## Projetos em destaque
 
----
 
 Obrigado por passar por aqui!
 Sempre aberto a ideias, parcerias e projetos interessantes.
