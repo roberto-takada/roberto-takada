@@ -2,8 +2,6 @@
 
 Desenvolvedor apaixonado por criar soluções completas, do backend ao frontend, passando por mobile, jogos e até machine learning.
 
----
-
 ## 🛠️ Tecnologias com que trabalho
 
 ### **Backend**
