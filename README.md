@@ -29,6 +29,3 @@ Também trabalho com Node.js, React e TypeScript.
 
 - **[IFSPAero](https://github.com/roberto-takada/IFSPAero):** sistema de gestão de aviação em C#, .NET, Windows Forms e MySQL
 - **Galeria Virtual:** ambiente de Realidade Virtual para ensino imersivo, feito em Godot e GDScript
-- **[Nome do projeto de IA]:** descrição curta e link
-
-Aberto a estágios e projetos em IA e desenvolvimento de jogos.
