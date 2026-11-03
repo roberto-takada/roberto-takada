@@ -1,52 +1,35 @@
-# 👋 Olá! Eu sou o Roberto
+# Olá, eu sou o Roberto 👋
 
-Desenvolvedor apaixonado por criar soluções completas, do backend ao frontend, passando por mobile, jogos e até machine learning.
+Estudante de Engenharia da Computação no IFSP, focado em **Inteligência Artificial** (visão computacional, machine learning e análise de dados) e **desenvolvimento de jogos** com C# e C++.
 
-## 🛠️ Tecnologias com que trabalho
+## Foco
 
-### **Backend**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="20"/> **NestJS**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express  
-- 🔐 Autenticação (JWT, RBAC), APIs REST, WebSockets
+- **IA e Dados:** detecção de objetos com YOLO, processamento de imagem com OpenCV, modelos com PyTorch e scikit-learn, análise de dados com Pandas
+- **Jogos:** Godot (GDScript), Unity (C#) e C++, incluindo um projeto de Realidade Virtual apresentado na 5ª Semana Nacional da Educação Profissional e Tecnológica
+- **Software:** C#, .NET, Python e SQL
 
-### **Frontend**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20"/> **Angular**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**
+## Tecnologias
 
-### **Mobile**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React Native**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" title="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="36" title="Godot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
 
-### **C#**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> **C#**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20"/> **.NET**
-
-### **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
-- 🧠 YOLO, Scikit-learn, ML clássico
-
-### **Banco de Dados**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="20"/> Prisma ORM
-  
-### **Game Engines**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> **Unity**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="20"/> **Godot**
-
-## Principais Interesses
-
-- Arquitetura de software  
-- Sistemas escaláveis  
-- Ferramentas para produtividade  
-- Machine Learning aplicado  
-- Desenvolvimento de jogos (sistemas internos, ferramentas e protótipos)  
-- Aplicações web/mobile integradas com serviços modernos
-
+Também trabalho com Node.js, React e TypeScript.
 
 ## Projetos em destaque
 
+- **[IFSPAero](https://github.com/roberto-takada/IFSPAero):** sistema de gestão de aviação em C#, .NET, Windows Forms e MySQL
+- **Galeria Virtual:** ambiente de Realidade Virtual para ensino imersivo, feito em Godot e GDScript
+- **[Nome do projeto de IA]:** descrição curta e link
 
-Obrigado por passar por aqui!
-Sempre aberto a ideias, parcerias e projetos interessantes.
+Aberto a estágios e projetos em IA e desenvolvimento de jogos.
